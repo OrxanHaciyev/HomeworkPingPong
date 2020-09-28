@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\orxan\orxan\bin\Debug\netcoreapp3.0\orxan.exe
+C:\Users\User\source\repos\orxan\orxan\bin\Debug\netcoreapp3.0\orxan.deps.json
+C:\Users\User\source\repos\orxan\orxan\bin\Debug\netcoreapp3.0\orxan.runtimeconfig.json
+C:\Users\User\source\repos\orxan\orxan\bin\Debug\netcoreapp3.0\orxan.runtimeconfig.dev.json
+C:\Users\User\source\repos\orxan\orxan\bin\Debug\netcoreapp3.0\orxan.dll
+C:\Users\User\source\repos\orxan\orxan\bin\Debug\netcoreapp3.0\orxan.pdb
+C:\Users\User\source\repos\orxan\orxan\obj\Debug\netcoreapp3.0\orxan.csprojAssemblyReference.cache
+C:\Users\User\source\repos\orxan\orxan\obj\Debug\netcoreapp3.0\orxan.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\orxan\orxan\obj\Debug\netcoreapp3.0\orxan.AssemblyInfo.cs
+C:\Users\User\source\repos\orxan\orxan\obj\Debug\netcoreapp3.0\orxan.dll
+C:\Users\User\source\repos\orxan\orxan\obj\Debug\netcoreapp3.0\orxan.pdb
